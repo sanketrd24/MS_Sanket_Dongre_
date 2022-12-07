@@ -1,0 +1,170 @@
+2022-12-07T04:20:46.489+05:30  INFO 7008 --- [main] c.m.b.service.test.BookServiceTest       : Starting BookServiceTest using Java 17.0.4.1 with PID 7008 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T04:20:46.499+05:30  INFO 7008 --- [main] c.m.b.service.test.BookServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T04:20:46.658+05:30  INFO 7008 --- [main] c.m.b.service.test.BookServiceTest       : Started BookServiceTest in 0.74 seconds (process running for 1.956)
+2022-12-07T04:22:26.371+05:30  INFO 16516 --- [main] c.m.b.service.test.BookServiceTest       : Starting BookServiceTest using Java 17.0.4.1 with PID 16516 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T04:22:26.373+05:30  INFO 16516 --- [main] c.m.b.service.test.BookServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T04:22:26.579+05:30  INFO 16516 --- [main] c.m.b.service.test.BookServiceTest       : Started BookServiceTest in 0.679 seconds (process running for 1.773)
+2022-12-07T04:22:45.196+05:30  INFO 20544 --- [main] c.m.b.service.test.BookServiceTest       : Starting BookServiceTest using Java 17.0.4.1 with PID 20544 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T04:22:45.198+05:30  INFO 20544 --- [main] c.m.b.service.test.BookServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T04:22:45.367+05:30  INFO 20544 --- [main] c.m.b.service.test.BookServiceTest       : Started BookServiceTest in 0.688 seconds (process running for 1.804)
+2022-12-07T04:23:39.344+05:30  INFO 23024 --- [main] c.m.b.service.test.BookServiceTest       : Starting BookServiceTest using Java 17.0.4.1 with PID 23024 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T04:23:39.346+05:30  INFO 23024 --- [main] c.m.b.service.test.BookServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T04:23:39.572+05:30  INFO 23024 --- [main] c.m.b.service.test.BookServiceTest       : Started BookServiceTest in 0.849 seconds (process running for 2.542)
+2022-12-07T04:25:47.998+05:30  INFO 13120 --- [main] c.m.b.service.test.BookServiceTest       : Starting BookServiceTest using Java 17.0.4.1 with PID 13120 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T04:25:47.999+05:30  INFO 13120 --- [main] c.m.b.service.test.BookServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T04:25:48.205+05:30  INFO 13120 --- [main] c.m.b.service.test.BookServiceTest       : Started BookServiceTest in 0.713 seconds (process running for 2.248)
+2022-12-07T04:28:30.229+05:30  INFO 21868 --- [main] c.m.b.service.test.BookServiceTest       : Starting BookServiceTest using Java 17.0.4.1 with PID 21868 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T04:28:30.231+05:30  INFO 21868 --- [main] c.m.b.service.test.BookServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T04:28:30.416+05:30  INFO 21868 --- [main] c.m.b.service.test.BookServiceTest       : Started BookServiceTest in 0.674 seconds (process running for 1.849)
+2022-12-07T04:30:59.441+05:30  INFO 23132 --- [main] c.m.b.service.test.BookServiceTest       : Starting BookServiceTest using Java 17.0.4.1 with PID 23132 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T04:30:59.442+05:30  INFO 23132 --- [main] c.m.b.service.test.BookServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T04:30:59.615+05:30  INFO 23132 --- [main] c.m.b.service.test.BookServiceTest       : Started BookServiceTest in 0.695 seconds (process running for 1.82)
+2022-12-07T04:31:46.234+05:30  INFO 6476 --- [main] c.m.b.service.test.BookServiceTest       : Starting BookServiceTest using Java 17.0.4.1 with PID 6476 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T04:31:46.236+05:30  INFO 6476 --- [main] c.m.b.service.test.BookServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T04:31:46.394+05:30  INFO 6476 --- [main] c.m.b.service.test.BookServiceTest       : Started BookServiceTest in 0.674 seconds (process running for 1.743)
+2022-12-07T05:47:40.321+05:30  INFO 4324 --- [main] c.m.b.service.test.UserServiceTest       : Starting UserServiceTest using Java 17.0.4.1 with PID 4324 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T05:47:40.322+05:30  INFO 4324 --- [main] c.m.b.service.test.UserServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T05:47:40.525+05:30  INFO 4324 --- [main] c.m.b.service.test.UserServiceTest       : Started UserServiceTest in 0.738 seconds (process running for 1.965)
+2022-12-07T05:47:59.679+05:30  INFO 19976 --- [main] c.m.b.service.test.UserServiceTest       : Starting UserServiceTest using Java 17.0.4.1 with PID 19976 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T05:47:59.681+05:30  INFO 19976 --- [main] c.m.b.service.test.UserServiceTest       : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T05:47:59.887+05:30  INFO 19976 --- [main] c.m.b.service.test.UserServiceTest       : Started UserServiceTest in 0.765 seconds (process running for 1.974)
+2022-12-07T09:40:35.343+05:30  INFO 14364 --- [main] c.m.bookshop.BookShopApplication         : Starting BookShopApplication using Java 17.0.4.1 with PID 14364 (C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3\target\classes started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T09:40:35.346+05:30  INFO 14364 --- [main] c.m.bookshop.BookShopApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T09:40:35.804+05:30  INFO 14364 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-07T09:40:35.853+05:30  INFO 14364 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 45 ms. Found 3 JPA repository interfaces.
+2022-12-07T09:40:36.182+05:30  INFO 14364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8086 (http)
+2022-12-07T09:40:36.190+05:30  INFO 14364 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-07T09:40:36.190+05:30  INFO 14364 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-07T09:40:36.265+05:30  INFO 14364 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-07T09:40:36.266+05:30  INFO 14364 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 886 ms
+2022-12-07T09:40:36.371+05:30  INFO 14364 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-07T09:40:36.425+05:30  INFO 14364 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-07T09:40:36.560+05:30  WARN 14364 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-07T09:40:36.666+05:30  INFO 14364 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-07T09:40:36.775+05:30  INFO 14364 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ed25612
+2022-12-07T09:40:36.777+05:30  INFO 14364 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-07T09:40:36.795+05:30  INFO 14364 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-07T09:40:36.795+05:30  WARN 14364 --- [main] org.hibernate.orm.deprecation            : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2022-12-07T09:40:37.432+05:30  INFO 14364 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-07T09:40:37.441+05:30  INFO 14364 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-07T09:40:37.851+05:30  WARN 14364 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-07T09:40:38.084+05:30  INFO 14364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8086 (http) with context path ''
+2022-12-07T09:40:38.089+05:30  INFO 14364 --- [main] c.m.bookshop.BookShopApplication         : Started BookShopApplication in 3.07 seconds (process running for 3.508)
+2022-12-07T09:40:47.728+05:30  INFO 14364 --- [http-nio-8086-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-07T09:40:47.728+05:30  INFO 14364 --- [http-nio-8086-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-07T09:40:47.729+05:30  INFO 14364 --- [http-nio-8086-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-12-07T09:40:47.878+05:30  INFO 14364 --- [http-nio-8086-exec-3] c.m.bookshop.controller.UserController   : User Placing Order : Order Id : 1 ,Total Price : 1150.0
+2022-12-07T09:42:18.076+05:30  INFO 14364 --- [http-nio-8086-exec-2] c.m.bookshop.controller.UserController   : User Placing Order : Order Id : 1 ,Total Price : 1150.0
+2022-12-07T09:43:33.328+05:30  INFO 14364 --- [http-nio-8086-exec-8] c.m.bookshop.controller.AdminController  : Add Book : Book id : 0 ,book name : Harry Potter
+2022-12-07T09:45:17.872+05:30  INFO 14364 --- [http-nio-8086-exec-7] c.m.bookshop.controller.AdminController  : Deleting Book : Harry Potter
+2022-12-07T10:03:42.640+05:30  INFO 24208 --- [main] c.m.b.c.test.UserControllerTest          : Starting UserControllerTest using Java 17.0.4.1 with PID 24208 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T10:03:42.641+05:30  INFO 24208 --- [main] c.m.b.c.test.UserControllerTest          : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T10:03:42.730+05:30  INFO 24208 --- [main] c.m.b.c.test.UserControllerTest          : Started UserControllerTest in 0.349 seconds (process running for 0.976)
+2022-12-07T10:03:55.260+05:30  INFO 14364 --- [RMI TCP Connection(34)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-12-07T10:03:55.268+05:30  INFO 14364 --- [RMI TCP Connection(34)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-07T10:03:55.270+05:30  INFO 14364 --- [RMI TCP Connection(34)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-12-07T10:03:55.276+05:30  INFO 14364 --- [RMI TCP Connection(34)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-07T10:03:55.277+05:30  INFO 14364 --- [RMI TCP Connection(34)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-07T10:03:55.283+05:30  INFO 14364 --- [RMI TCP Connection(34)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-07T11:07:35.001+05:30  INFO 18096 --- [main] c.m.bookshop.BookShopApplication         : Starting BookShopApplication using Java 17.0.4.1 with PID 18096 (C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3\target\classes started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T11:07:35.003+05:30  INFO 18096 --- [main] c.m.bookshop.BookShopApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T11:07:35.337+05:30  INFO 18096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-07T11:07:35.374+05:30  INFO 18096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 32 ms. Found 3 JPA repository interfaces.
+2022-12-07T11:07:35.634+05:30  INFO 18096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8086 (http)
+2022-12-07T11:07:35.639+05:30  INFO 18096 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-07T11:07:35.640+05:30  INFO 18096 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-07T11:07:35.694+05:30  INFO 18096 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-07T11:07:35.694+05:30  INFO 18096 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 668 ms
+2022-12-07T11:07:35.771+05:30  INFO 18096 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-07T11:07:35.800+05:30  INFO 18096 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-07T11:07:35.888+05:30  WARN 18096 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-07T11:07:35.964+05:30  INFO 18096 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-07T11:07:36.052+05:30  INFO 18096 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@56e5c8fb
+2022-12-07T11:07:36.053+05:30  INFO 18096 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-07T11:07:36.063+05:30  INFO 18096 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-07T11:07:36.065+05:30  WARN 18096 --- [main] org.hibernate.orm.deprecation            : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2022-12-07T11:07:36.575+05:30  INFO 18096 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-07T11:07:36.582+05:30  INFO 18096 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-07T11:07:36.920+05:30  WARN 18096 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-07T11:07:37.123+05:30  INFO 18096 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8086 (http) with context path ''
+2022-12-07T11:07:37.128+05:30  INFO 18096 --- [main] c.m.bookshop.BookShopApplication         : Started BookShopApplication in 2.364 seconds (process running for 2.721)
+2022-12-07T11:07:48.149+05:30  INFO 18096 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-12-07T11:07:48.158+05:30  INFO 18096 --- [RMI TCP Connection(8)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-07T11:07:48.164+05:30  INFO 18096 --- [RMI TCP Connection(8)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-07T11:07:48.165+05:30  INFO 18096 --- [RMI TCP Connection(8)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-07T11:07:48.170+05:30  INFO 18096 --- [RMI TCP Connection(8)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-07T11:29:19.770+05:30  INFO 18496 --- [main] c.m.bookshop.BookShopApplication         : Starting BookShopApplication using Java 17.0.4.1 with PID 18496 (C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3\target\classes started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T11:29:19.773+05:30  INFO 18496 --- [main] c.m.bookshop.BookShopApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T11:29:20.340+05:30  INFO 18496 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-07T11:29:20.426+05:30  INFO 18496 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 72 ms. Found 3 JPA repository interfaces.
+2022-12-07T11:29:20.903+05:30  INFO 18496 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8086 (http)
+2022-12-07T11:29:20.914+05:30  INFO 18496 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-07T11:29:20.914+05:30  INFO 18496 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-07T11:29:21.000+05:30  INFO 18496 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-07T11:29:21.001+05:30  INFO 18496 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1188 ms
+2022-12-07T11:29:21.123+05:30  INFO 18496 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-07T11:29:21.173+05:30  INFO 18496 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-07T11:29:21.361+05:30  WARN 18496 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-07T11:29:21.549+05:30  INFO 18496 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-07T11:29:21.715+05:30  INFO 18496 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2bdb5e0f
+2022-12-07T11:29:21.718+05:30  INFO 18496 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-07T11:29:21.734+05:30  INFO 18496 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-07T11:29:21.735+05:30  WARN 18496 --- [main] org.hibernate.orm.deprecation            : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2022-12-07T11:29:22.558+05:30  INFO 18496 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-07T11:29:22.566+05:30  INFO 18496 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-07T11:29:23.146+05:30  WARN 18496 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-07T11:29:23.465+05:30  INFO 18496 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8086 (http) with context path ''
+2022-12-07T11:29:23.474+05:30  INFO 18496 --- [main] c.m.bookshop.BookShopApplication         : Started BookShopApplication in 4.198 seconds (process running for 4.818)
+2022-12-07T11:29:28.828+05:30  INFO 18496 --- [http-nio-8086-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-07T11:29:28.828+05:30  INFO 18496 --- [http-nio-8086-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-07T11:29:28.831+05:30  INFO 18496 --- [http-nio-8086-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-12-07T11:29:28.963+05:30  INFO 18496 --- [http-nio-8086-exec-1] c.m.bookshop.controller.AdminController  : Add Book : Book id : 0 ,book name : Harry Potter
+2022-12-07T11:31:49.143+05:30  INFO 18496 --- [http-nio-8086-exec-7] c.m.bookshop.controller.UserController   : User Registration : Email : user1@gmail.com ,Name : user1 user
+2022-12-07T11:32:57.777+05:30  INFO 18496 --- [http-nio-8086-exec-10] c.m.bookshop.controller.UserController   : User Placing Order : Order Id : 2 ,Total Price : 1150.0
+2022-12-07T13:15:16.189+05:30  INFO 18496 --- [http-nio-8086-exec-3] c.m.bookshop.controller.UserController   : User Registration : Email : user1@gmail.com ,Name : user1 user
+2022-12-07T13:32:26.113+05:30  INFO 18496 --- [http-nio-8086-exec-5] c.m.bookshop.controller.UserController   : User Login : Email : user1@gmail.com ,Password : user@1234
+2022-12-07T13:32:31.147+05:30  INFO 18496 --- [http-nio-8086-exec-7] c.m.bookshop.controller.UserController   : User Login : Email : user1@gmail.com ,Password : user@123
+2022-12-07T13:33:20.116+05:30  INFO 18496 --- [RMI TCP Connection(132)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-12-07T13:33:20.130+05:30  INFO 18496 --- [RMI TCP Connection(132)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-07T13:33:20.133+05:30  INFO 18496 --- [RMI TCP Connection(132)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-12-07T13:33:20.145+05:30  INFO 18496 --- [RMI TCP Connection(132)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-07T13:33:20.148+05:30  INFO 18496 --- [RMI TCP Connection(132)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-07T13:33:20.155+05:30  INFO 18496 --- [RMI TCP Connection(132)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-12-07T13:33:22.260+05:30  INFO 23224 --- [main] c.m.bookshop.BookShopApplication         : Starting BookShopApplication using Java 17.0.4.1 with PID 23224 (C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3\target\classes started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T13:33:22.264+05:30  INFO 23224 --- [main] c.m.bookshop.BookShopApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T13:33:22.818+05:30  INFO 23224 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-07T13:33:22.886+05:30  INFO 23224 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 59 ms. Found 3 JPA repository interfaces.
+2022-12-07T13:33:23.361+05:30  INFO 23224 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8086 (http)
+2022-12-07T13:33:23.372+05:30  INFO 23224 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-07T13:33:23.373+05:30  INFO 23224 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.1]
+2022-12-07T13:33:23.458+05:30  INFO 23224 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-07T13:33:23.459+05:30  INFO 23224 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1160 ms
+2022-12-07T13:33:23.587+05:30  INFO 23224 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-07T13:33:23.634+05:30  INFO 23224 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.5.Final
+2022-12-07T13:33:23.804+05:30  WARN 23224 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2022-12-07T13:33:23.919+05:30  INFO 23224 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-07T13:33:24.076+05:30  INFO 23224 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2bdb5e0f
+2022-12-07T13:33:24.078+05:30  INFO 23224 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-07T13:33:24.098+05:30  INFO 23224 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-07T13:33:24.099+05:30  WARN 23224 --- [main] org.hibernate.orm.deprecation            : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
+2022-12-07T13:33:24.989+05:30  INFO 23224 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-07T13:33:25.000+05:30  INFO 23224 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-07T13:33:25.584+05:30  WARN 23224 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-07T13:33:25.906+05:30  INFO 23224 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8086 (http) with context path ''
+2022-12-07T13:33:25.914+05:30  INFO 23224 --- [main] c.m.bookshop.BookShopApplication         : Started BookShopApplication in 4.088 seconds (process running for 4.709)
+2022-12-07T13:33:38.205+05:30  INFO 23224 --- [http-nio-8086-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-07T13:33:38.205+05:30  INFO 23224 --- [http-nio-8086-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-07T13:33:38.207+05:30  INFO 23224 --- [http-nio-8086-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-12-07T13:33:38.313+05:30  INFO 23224 --- [http-nio-8086-exec-2] c.m.bookshop.controller.UserController   : User Login : Email : user1@gmail.com ,Password : user@123
+2022-12-07T13:33:43.788+05:30  INFO 23224 --- [http-nio-8086-exec-3] c.m.bookshop.controller.UserController   : User Login : Email : user1@gmail.com ,Password : user@1234
+2022-12-07T13:33:48.404+05:30  INFO 23224 --- [http-nio-8086-exec-4] c.m.bookshop.controller.UserController   : User Login : Email : user1@gmail.com ,Password : user@123
+2022-12-07T13:34:19.392+05:30  INFO 23224 --- [http-nio-8086-exec-7] c.m.bookshop.controller.AdminController  : Add Book : Book id : 0 ,book name : Harry Potter
+2022-12-07T13:53:43.605+05:30  INFO 20976 --- [main] c.m.b.c.test.UserControllerTest          : Starting UserControllerTest using Java 17.0.4.1 with PID 20976 (started by sdongre in C:\Users\sdongre\OneDrive - MORNINGSTAR INC\Documents\workspace-spring-tool-suite-4-4.16.1.RELEASE\BookShopV3)
+2022-12-07T13:53:43.607+05:30  INFO 20976 --- [main] c.m.b.c.test.UserControllerTest          : No active profile set, falling back to 1 default profile: "default"
+2022-12-07T13:53:43.825+05:30  INFO 20976 --- [main] c.m.b.c.test.UserControllerTest          : Started UserControllerTest in 0.796 seconds (process running for 1.898)
+2022-12-07T14:01:13.327+05:30  INFO 23224 --- [RMI TCP Connection(37)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-12-07T14:01:13.342+05:30  INFO 23224 --- [RMI TCP Connection(37)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-07T14:01:13.345+05:30  INFO 23224 --- [RMI TCP Connection(37)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-12-07T14:01:13.359+05:30  INFO 23224 --- [RMI TCP Connection(37)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-07T14:01:13.364+05:30  INFO 23224 --- [RMI TCP Connection(37)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-12-07T14:01:13.378+05:30  INFO 23224 --- [RMI TCP Connection(37)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
